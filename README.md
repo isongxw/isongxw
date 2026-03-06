@@ -1,12 +1,21 @@
 ## Hi there 👋
 
-<!-- GitHub 统计卡片 -->
+<!-- GitHub 统计徽章 - shields.io 无需登录 -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isongxw&show_icons=true&include_all_commits=true&theme=default&hide_border=false" alt="isongxw's github stats" />
+  <img src="https://img.shields.io/github/stars/isongxw?style=for-the-badge&logo=github&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/isongxw?style=for-the-badge&logo=github&color=blue" alt="Followers" />
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isongxw&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isongxw&layout=compact&theme=default&hide_border=false" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isongxw&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
 </p>
 
 <!--
